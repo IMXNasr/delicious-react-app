@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/delicious-react-app/static/css/main.1f70251a.css",
+    "main.js": "/delicious-react-app/static/js/main.c1d0a944.js",
+    "index.html": "/delicious-react-app/index.html",
+    "main.1f70251a.css.map": "/delicious-react-app/static/css/main.1f70251a.css.map",
+    "main.c1d0a944.js.map": "/delicious-react-app/static/js/main.c1d0a944.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f70251a.css",
+    "static/js/main.c1d0a944.js"
+  ]
+}
